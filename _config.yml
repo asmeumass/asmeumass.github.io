@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "ASME at the University of Massachusetts Amherst"
+author: "ASME UMass"
+description: "University of Massachusetts Amherst"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "asmeumass@gmail.com"}
+  - {title: Microsoft Teams, icon: github, url: "https://teams.microsoft.com/l/team/19%3aDHkgpghuyXZ8H6htUGmDoRcSz-teU-yLhA2tUeKfuhI1%40thread.tacv2/conversations?groupId=b665bb64-1293-40b0-87bd-a82b8cfc4575&tenantId=7bd08b0b-3395-4dc1-94bb-d0b2e56a497f"}
+  - {title: Linkedin, icon: rss, url: "https://www.linkedin.com/company/umass-asme"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
