@@ -18,13 +18,13 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "About"}
-  - {title: "Membership Benefits", url: "https://www.asme.org/membership/student-membership"}
+  - {title: "Join the National Chapter", url: "https://www.asme.org/membership/student-membership"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "asmeumass@gmail.com"}
-  - {title: Microsoft Teams, icon: github, url: "https://teams.microsoft.com/l/team/19%3aDHkgpghuyXZ8H6htUGmDoRcSz-teU-yLhA2tUeKfuhI1%40thread.tacv2/conversations?groupId=b665bb64-1293-40b0-87bd-a82b8cfc4575&tenantId=7bd08b0b-3395-4dc1-94bb-d0b2e56a497f"}
-  - {title: Linkedin, icon: rss, url: "https://www.linkedin.com/company/umass-asme"}
+  - {title: Microsoft Teams, icon: Microsoft Teams, url: "https://teams.microsoft.com/l/team/19%3aDHkgpghuyXZ8H6htUGmDoRcSz-teU-yLhA2tUeKfuhI1%40thread.tacv2/conversations?groupId=b665bb64-1293-40b0-87bd-a82b8cfc4575&tenantId=7bd08b0b-3395-4dc1-94bb-d0b2e56a497f"}
+  - {title: Linkedin, icon: LinkedIn, url: "https://www.linkedin.com/company/umass-asme"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
