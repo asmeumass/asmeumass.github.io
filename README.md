@@ -3,7 +3,7 @@ title: "Our Student Chapter"
 permalink: "/about/"
 layout: page
 ---
-![ASME LOGO (1)](https://user-images.githubusercontent.com/123122159/215829535-e2454aa4-2fd6-4480-9b2d-b51bbbd77715.png | width=100px)
+![ASME LOGO (1)](https://user-images.githubusercontent.com/123122159/215829535-e2454aa4-2fd6-4480-9b2d-b51bbbd77715.png)
 # Our Mission
 ## The mission of our student chapter is to help bridge the gap between the academic classroom and a career in mechanical engineering. Through extracurricular activities, student members will be able to build and apply their engineering skills, as well as see how they can integrate these skills into a professional setting.  
 
