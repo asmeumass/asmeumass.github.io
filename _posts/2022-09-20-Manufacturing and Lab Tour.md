@@ -5,9 +5,8 @@ layout: post
 categories: media
 ---
 
-![Screenshot 2023-02-02 182012](https://user-images.githubusercontent.com/123122159/216473165-5d8129da-9a17-4545-a4b5-f9f808b951e3.png)
+<img src="https://user-images.githubusercontent.com/123122159/216473165-5d8129da-9a17-4545-a4b5-f9f808b951e3.png" width=300 height=200> <img src="https://user-images.githubusercontent.com/123122159/216473227-c39ca550-ff7c-462f-8b71-9fba53d1f1d9.png" width=300 height=200>
 
-![Screenshot 2023-02-02 182008](https://user-images.githubusercontent.com/123122159/216473227-c39ca550-ff7c-462f-8b71-9fba53d1f1d9.png)
 
 ### Thanks to all who attended our October event, the ASME Manufacturing and Lab Tour!
 
