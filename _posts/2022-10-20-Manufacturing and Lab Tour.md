@@ -10,16 +10,16 @@ categories: media
 
 ### Thanks to all who attended our October event, the ASME Manufacturing and Lab Tour!
 
-During the tour our executive board members took a group of 20 students through MIE Innovation Shop (Machine Shop), Dr. Meghan Huber’s Human Robot Systems (HRS) Laboratory, the UMass All-Campus Makerspace, heard from Dr. Govind Srimathveeravalli regarding the Human Element Lab, and Dr. Gina Olson regarding her research into Soft and Compliant Robotics.  
+During the tour our executive board members took a group of 20 students through MIE Innovation Shop (Machine Shop), Dr. Meghan Huber’s Human Robot Systems (HRS) Laboratory, and the UMass All-Campus Makerspace. We also heard presentations from Dr. Govind Srimathveeravalli regarding the Human Element Lab, and Dr. Gina Olson regarding her research into Soft and Compliant Robotics.  
 
-We received feedback that the tour gave students insight into the facilities that are available to them on campus, and students were able to connect with professors about on campus research oportunities. 
+We received feedback that the tour gave students great insight into the facilities that are available to them on campus, and students were able to connect with professors about on campus research oportunities. 
 
-To keep updated on more monthly events like this, join our microsoft teams page listed in the about section.
+To keep updated on more monthly events like this, join our microsoft teams page listed in the about section!
 
 To learn more about facilities and labs toured, visit the following links:
 
-[Human Robotic Systems Lab]([url](https://www.umass.edu/robotics/hrsl))
-[Compliant Robot and Structures Lab]([url](https://www.umass.edu/robotics/crsl-main-landing-page))
-[Human Element Lab]([url](https://www.govindslab.com/home/us))
-[All Campus Makerspace]([url](https://www.umass.edu/ials/umass-amherst-all-campus-makerspace))
-[MIE Innovation Shop ]([url](https://www.umass.edu/engineering/community/student-organizations/makerspaces/mie-innovation-shop))
+Human Robotic Systems Lab: https://www.umass.edu/robotics/hrsl 
+Compliant Robot and Structures Lab: https://www.umass.edu/robotics/crsl-main-landing-page
+Human Element Lab: https://www.govindslab.com/home/us
+All Campus Makerspace: https://www.umass.edu/ials/umass-amherst-all-campus-makerspace
+MIE Innovation Shop: https://www.umass.edu/engineering/community/student-organizations/makerspaces/mie-innovation-shop
