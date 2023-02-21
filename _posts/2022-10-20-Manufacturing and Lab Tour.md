@@ -19,7 +19,11 @@ To keep updated on more monthly events like this, join our microsoft teams page 
 To learn more about facilities and labs toured, visit the following links:
 
 Human Robotic Systems Lab: https://www.umass.edu/robotics/hrsl 
+
 Compliant Robot and Structures Lab: https://www.umass.edu/robotics/crsl-main-landing-page
+
 Human Element Lab: https://www.govindslab.com/home/us
+
 All Campus Makerspace: https://www.umass.edu/ials/umass-amherst-all-campus-makerspace
+
 MIE Innovation Shop: https://www.umass.edu/engineering/community/student-organizations/makerspaces/mie-innovation-shop
